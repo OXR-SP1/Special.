@@ -152,7 +152,7 @@ store-hero h1 { font-size: 3rem; margin-bottom: 10px; }
 /* كارت المنتج */
 .product-card {
     background: #121212;
-    border: 1px solid rgba(255, 255, 255, 0.05);
+    border: 1px solid #ffffff0d;
     padding: 30px;
     border-radius: 20px;
     width: 300px;
